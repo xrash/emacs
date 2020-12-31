@@ -1,0 +1,8 @@
+tramp
+eshell
+%backup%
+%backup%~
+geben
+elpa
+src/*.elc
+auto-save-list
