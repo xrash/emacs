@@ -4,5 +4,5 @@ eshell
 %backup%~
 geben
 elpa
-src/*.elc
+lisp/src/*.elc
 auto-save-list

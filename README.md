@@ -10,3 +10,17 @@ $ ln -s ~/emacs ~/.emacs.d
 ```
 
 Emacs will load `~/.emacs.d/init.el`, and that will load everything else.
+
+## Compiling the .el files
+
+To compile, run:
+
+```bash
+$ make compile
+```
+
+To clean, run:
+
+```bash
+$ make clean
+```
