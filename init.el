@@ -25,6 +25,8 @@
 
 ;; configure tech-specific modes
 (load "src/rjsx-mode-config")
+(load "src/typescript-mode-config")
 (load "src/tide-mode-config")
 (load "src/go-mode-config")
 (load "src/web-mode-config")
+(load "src/xml-mode-config")
