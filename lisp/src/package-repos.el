@@ -9,8 +9,3 @@
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 
 (package-initialize)
-
-;(package-install 'js2-mode)
-;(package-install 'php-mode)
-;(package-install 'tide)
-(package-install 'color-theme-sanityinc-tomorrow)
