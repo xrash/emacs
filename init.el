@@ -32,3 +32,5 @@
 (load "src/go-mode-config")
 (load "src/web-mode-config")
 (load "src/xml-mode-config")
+(load "src/flutter-mode-config")
+
