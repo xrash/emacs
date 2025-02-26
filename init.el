@@ -24,11 +24,9 @@
 (load "src/window-resize")
 
 ;; configure tech-specific modes
-;(load "src/rjsx-mode-config")
 (load "src/typescript-mode-config")
 (load "src/js-mode-config")
 (load "src/tide-mode-config")
-;;(load "src/tide-mode-for-jsx-config")
 (load "src/go-mode-config")
 (load "src/web-mode-config")
 (load "src/xml-mode-config")

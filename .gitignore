@@ -6,3 +6,4 @@ geben
 elpa
 lisp/src/*.elc
 auto-save-list
+eln-cache
