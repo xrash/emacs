@@ -8,6 +8,9 @@
 ;; disable backup files
 (setq make-backup-files nil)
 
+;; disable auto-save files
+(setq auto-save-default nil)
+
 ;; disable auto-save-list
 (setq auto-save-list-file-prefix nil)
 
