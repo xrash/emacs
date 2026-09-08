@@ -1,3 +1,4 @@
+;;; -*- lexical-binding: t -*-
 (defun my-project-try-root (dir)
   (when-let ((root
               (locate-dominating-file

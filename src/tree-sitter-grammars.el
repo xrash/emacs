@@ -1,3 +1,4 @@
+;;; -*- lexical-binding: t -*-
 (require 'treesit)
 
 ;; add tree sitter recipes

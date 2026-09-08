@@ -1,3 +1,4 @@
+;;; -*- lexical-binding: t -*-
 ;; the oxfmt installed in the project, if any
 (defun oxfmt-project-program ()
   (when-let* ((root (locate-dominating-file default-directory "node_modules/.bin/oxfmt")))

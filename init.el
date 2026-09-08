@@ -1,8 +1,10 @@
+;;; -*- lexical-binding: t -*-
 (load "~/.emacs.d/src/disable-clutter")
 (load "~/.emacs.d/src/tree-sitter-grammars")
 (load "~/.emacs.d/src/packages")
 (load "~/.emacs.d/src/locate-project-root")
 (load "~/.emacs.d/src/load-major-modes")
+(load "~/.emacs.d/src/indentation")
 (load "~/.emacs.d/src/apheleia")
 (load "~/.emacs.d/src/window-switching")
 (load "~/.emacs.d/src/yank-to-clipboard")

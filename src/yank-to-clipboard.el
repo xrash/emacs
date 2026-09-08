@@ -1,3 +1,4 @@
+;;; -*- lexical-binding: t -*-
 ;; yank to clipboard
 (defun yank-to-x-clipboard ()
   (interactive)
