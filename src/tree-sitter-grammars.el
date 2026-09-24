@@ -30,3 +30,15 @@
                "https://github.com/tree-sitter/tree-sitter-go"
                "master"
                "src"))
+
+(add-to-list 'treesit-language-source-alist
+             '(json
+               "https://github.com/tree-sitter/tree-sitter-json"
+               "master"
+               "src"))
+
+(add-to-list 'treesit-language-source-alist
+             '(bash
+               "https://github.com/tree-sitter/tree-sitter-bash"
+               "master"
+               "src"))
