@@ -42,3 +42,9 @@
                "https://github.com/tree-sitter/tree-sitter-bash"
                "master"
                "src"))
+
+(add-to-list 'treesit-language-source-alist
+             '(rust
+               "https://github.com/tree-sitter/tree-sitter-rust"
+               "master"
+               "src"))

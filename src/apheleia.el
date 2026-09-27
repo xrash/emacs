@@ -20,3 +20,6 @@
 
 ;; gofmt on save, apheleia already maps go-ts-mode to gofmt
 (add-hook 'go-ts-mode-hook #'apheleia-mode)
+
+;; rustfmt on save, apheleia already maps rust-ts-mode to rustfmt
+(add-hook 'rust-ts-mode-hook #'apheleia-mode)
