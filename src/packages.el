@@ -8,6 +8,11 @@
 (use-package eglot
   :ensure t)
 
+;; eglot renders lsp hover docs with gfm-view-mode from this package
+;; without it the echo area shows the raw ```typescript fence instead of the type
+(use-package markdown-mode
+  :ensure t)
+
 ;; completion ui
 (use-package corfu
   :ensure t

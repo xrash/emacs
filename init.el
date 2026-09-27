@@ -9,3 +9,4 @@
 (load "~/.emacs.d/src/window-switching")
 (load "~/.emacs.d/src/yank-to-clipboard")
 (load "~/.emacs.d/src/flymake-hotkeys")
+(load "~/.emacs.d/src/eldoc-hotkeys")
